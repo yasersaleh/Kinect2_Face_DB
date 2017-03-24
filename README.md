@@ -9,7 +9,7 @@ Color and IR images are saved as png files, while the corresponding depth map is
 
 The files are named in the following format: "data type-time stamp.file type", where 3 files will have the same time stamp representing the color, IR, and depth recorded in that instance.
 ## Cropped Faces Database Structure
-Each folder represents a unique identity, where in each one two folders are created, one called B for the data captured while the room light is on and D when the room was dark, in each of the previous folders a collection of images representing the color, and the converted depth map as image are organized.
+Each folder represents a unique identity, where in each one two folders are created, one called Bright for the data captured while the room light is on and Dark when the room was dark, in each of the previous folders a collection of images representing the color, and the converted depth map as image are organized.
 
 Color images are saved as png files, while the corresponding depth map images are saved as jpg files.
 
