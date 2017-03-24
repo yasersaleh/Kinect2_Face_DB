@@ -16,3 +16,5 @@ Each folder represents a unique identity, where in each one two folders are crea
 Color images are saved as png files, while the corresponding depth map images are saved as jpg files.
 
 The files are named in the following format: "image ID.file type", where 2 files will have the same image ID representing the color and depth recorded in that instance.
+
+This dataset can be found [here](Kinect2_Face_DB/Cropped Faces.zip)
