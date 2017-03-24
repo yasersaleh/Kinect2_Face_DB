@@ -17,4 +17,4 @@ Color images are saved as png files, while the corresponding depth map images ar
 
 The files are named in the following format: "image ID.file type", where 2 files will have the same image ID representing the color and depth recorded in that instance.
 
-This dataset can be found [here](Kinect2_Face_DB/).
+This dataset can be found [here](Cropped_Faces.zip).
