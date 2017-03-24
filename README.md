@@ -1,4 +1,4 @@
-# Kinect2DB
+# Kinect 2 Face Database
 ## Description
 A database of data captured by the Microsoft Kinect 2, containing color, IR, and depth data for multiple people sitting in front of the Kinect, showing multiple expressions, and having good and poor illumination scenes.
 The cropped faces for the same people will be also included.
